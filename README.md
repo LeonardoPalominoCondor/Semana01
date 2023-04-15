@@ -1,2 +1,0 @@
-# Semana01
-# Practica
